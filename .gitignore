@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> master
+/.github
 /vendor/
 node_modules/
 npm-debug.log
